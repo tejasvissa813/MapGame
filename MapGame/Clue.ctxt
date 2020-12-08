@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Clue
+comment0.text=\n\ \n\ \n\ @author\ Tejas,\ Akhil,\ Eric,\ Arvind\n\ @version\ 1\n
+comment1.params=name
+comment1.target=Clue(java.lang.String)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ finish()
+comment5.params=
+comment5.target=void\ nextClue()
+numComments=6

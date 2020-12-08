@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RiddleHolder
+comment1.params=
+comment1.target=RiddleHolder()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Riddles\n
+comment2.params=
+comment2.target=void\ updateSelection()
+comment3.params=
+comment3.target=java.lang.String\ getRiddle()
+comment4.params=
+comment4.target=java.lang.String\ getAnswer()
+numComments=5
